@@ -59,7 +59,7 @@ I pride myself on being a versatile developer, proficient in both frontend and b
 
 ## 📱 Contact
 
-You can reach me via [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/estebanficetti/)) or email me at [ficettiesteban@gmail.com](ficettiesteban@gmail.com)
+You can reach me via [LinkedIn](https://www.linkedin.com/in/estebanficetti/) or email me at [ficettiesteban@gmail.com](ficettiesteban@gmail.com)
 
 ---
 
